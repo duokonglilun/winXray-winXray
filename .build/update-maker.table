@@ -1,0 +1,5 @@
+{
+updateUrl="https://raw.githubusercontent.com/winXray/winXray/master/release/update/";
+description="修正BUG，更新服务器，升级Xray内核";
+outputDir="/release/update/"
+}

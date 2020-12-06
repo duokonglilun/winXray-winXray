@@ -1,0 +1,8 @@
+{
+    "description":"修正BUG，更新服务器，升级Xray内核",
+    "format":".lzma",
+    "main":"\\winXray.exe",
+    "updater":"\\winXray.exe",
+    "url":"https://raw.githubusercontent.com/winXray/winXray/master/release/update/",
+    "version":"1.3.04"
+}
